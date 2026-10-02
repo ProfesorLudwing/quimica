@@ -4,7 +4,7 @@ import os
 # Configuración del Pizarrón Escolar
 st.set_page_config(page_title="Química en el ciclo hidrológico y en la fotosíntesis", page_icon="👩‍🔬", layout="wide")
 
-st.title("💧 FluidoVital: Capas y Química del Aire y Agua")
+st.title("👩‍🔬 Química en el ciclo hidrológico y en la fotosíntesis")
 st.markdown("### CBTIS 303 | Ciencias Naturales, Experimentales y Tecnología III")
 st.write("Explora la química, las propiedades físicas y los ciclos biogeoquímicos de los dos grandes fluidos planetarios.")
 
