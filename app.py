@@ -11,7 +11,7 @@ st.write("Explora la química, las propiedades físicas y los ciclos biogeoquím
 # --- RUTAS DE IMÁGENES ---
 IMAGENES = {
     "Hidrosfera_Estados": "hidrosfera_estados.png",
-    "Agua_Polaridad": "agua_polaridad.jpg",
+    "Agua_Polaridad": "agua_polaridad.png",
     "Agua_Puentes": "agua_puentes.png",
     "Agua_Iones": "agua_iones.jpg",
     "Atmosfera_Composicion": "atmosfera_composicion.png",
