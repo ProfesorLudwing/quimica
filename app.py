@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Configuración del Pizarrón Escolar
-st.set_page_config(page_title="FluidoVital: Aire y Agua", page_icon="💧", layout="wide")
+st.set_page_config(page_title="Química en el ciclo hidrológico y en la fotosíntesis", page_icon="👩‍🔬", layout="wide")
 
 st.title("💧 FluidoVital: Capas y Química del Aire y Agua")
 st.markdown("### CBTIS 303 | Ciencias Naturales, Experimentales y Tecnología III")
